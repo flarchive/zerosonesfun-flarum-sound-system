@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of zerosonesfun/flarum-sound-system.** Not for installation: use [Packagist](https://packagist.org/packages/zerosonesfun/flarum-sound-system) or the [upstream repository](https://github.com/zerosonesfun/flarum-sound-system).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
+**13** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2026-03-16 | `^2.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.0) |
+| `1.1` | 2026-03-16 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1) |
+| `1.1.10` | 2026-03-17 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.10) |
+| `1.1.2` | 2026-03-16 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.2) |
+| `1.1.4` | 2026-03-16 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.4) |
+| `1.1.5` | 2026-03-16 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.5) |
+| `1.1.6` | 2026-03-17 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.6) |
+| `1.1.7` | 2026-03-17 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.7) |
+| `1.1.8` | 2026-03-17 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.8) |
+| `1.1.9` | 2026-03-17 | `^1.0.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tree/archive/v1.1.9) |
+
+[View all 13 versions](https://github.com/flarchive/zerosonesfun-flarum-sound-system/tags)
 
 Catalog entry: [packages/zerosonesfun-flarum-sound-system.json](https://github.com/flarchive/archive-index/blob/main/packages/zerosonesfun-flarum-sound-system.json)
 
